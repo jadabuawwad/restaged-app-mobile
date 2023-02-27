@@ -42,3 +42,9 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Build Files
+*.gr.dart
+
+# Package manager generated files
+pubspec.lock
